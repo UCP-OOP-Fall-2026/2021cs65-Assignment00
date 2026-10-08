@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-    cout << "Name: Your Name" << endl;
-    cout << "Roll Number: Your Roll Number" << endl;
+    cout << "Name: Ammar Faroooq" << endl;
+    cout << "Roll Number: 2021CS65" << endl;
     cout << "Section: C9" << endl;
     return 0;
 }
